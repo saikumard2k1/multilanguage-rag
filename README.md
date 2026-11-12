@@ -130,7 +130,3 @@ The app is deployed on **Streamlit Community Cloud** from `rag_web_groq.py`.
 ## Built with
 
 [LangChain](https://www.langchain.com/) · [ChromaDB](https://www.trychroma.com/) · [Sentence Transformers](https://www.sbert.net/) · [Streamlit](https://streamlit.io/) · [Ollama](https://ollama.com/) · [Groq](https://groq.com/)
-
-## Credits
-
-The core idea comes from the article "Build a Multi-Language RAG Pipeline" by Aman Kharwal. This project extends it with language detection, an unsupported-language guard, real file uploads, a web interface and a hosted LLM option.
