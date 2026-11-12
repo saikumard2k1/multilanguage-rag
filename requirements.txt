@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-huggingface
+langchain-chroma
+langchain-ollama
+sentence-transformers
+langdetect
+
+streamlit
+pypdf
+python-docx
+langchain-text-splitters
