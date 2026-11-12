@@ -10,3 +10,9 @@ streamlit
 pypdf
 python-docx
 langchain-text-splitters
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+langchain-groq
+langdetect
+python-dotenv
