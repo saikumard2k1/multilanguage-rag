@@ -2,7 +2,7 @@
 
 A RAG (Retrieval-Augmented Generation) app that answers questions in the **user's language**, even when the documents are in a **different language**. No translation step is needed.
 
-**Live demo:** [ADD YOUR APP URL HERE](https://multilanguage-rag-ewhu3d3fcda9ln3vd3iqx3.streamlit.app/)
+**Live demo:** [Open the live app](https://multilanguage-rag-ewhu3d3fcda9ln3vd3iqx3.streamlit.app/)
 
 > The demo sleeps when idle. If you see a "wake up" button, click it and wait a few seconds. Uploaded files are kept in memory only, so they reset when the app restarts.
 
